@@ -1,8 +1,4 @@
 
-//Salwa Fayyad 1200430 
-//Sondos Ashraf 1200905
-//Katya Kobari 1201478
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
